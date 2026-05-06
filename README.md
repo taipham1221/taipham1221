@@ -1,17 +1,1 @@
-<h3 align="center">Hi there 👋</h3>
-
-<p align="center">
-  taipham1221
-</p>
-
----
-
-### About me
-- Turning coffee into code ☕  
-- Debugging life one commit at a time  
-- Building things quietly  
-
----
-
-### Stats
-- No fancy stats, just code.
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=taipham1221;If+life+gives+you+lemons,+make+a+cup+of+coffee)
