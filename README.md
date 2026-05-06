@@ -1,16 +1,13 @@
-## Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
-<!--
-**taipham1221/taipham1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=taipham1221;Minimal+%26+Clean;Building+things+quietly&center=true&width=380&height=45">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taipham1221&show_icons=true&hide_border=true&title_color=000&icon_color=000&text_color=333">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=taipham1221&hide_border=true&ring=000&fire=000&currStreakLabel=000">
+</p>
